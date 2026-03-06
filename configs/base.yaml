@@ -1,0 +1,6 @@
+data.source: binance
+data.symbol: BTCUSDT
+data.interval: 1m
+data.start: "2023-01-01"
+data.end: "2023-01-10"
+data.cache_dir: "data"
