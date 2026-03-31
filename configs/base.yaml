@@ -1,6 +1,7 @@
-data.source: binance
-data.symbol: BTCUSDT
-data.interval: 1m
-data.start: "2023-01-01"
-data.end: "2023-01-10"
-data.cache_dir: "data"
+data:
+  source: kraken
+  symbol: XXBTZUSD
+  interval: 1
+  start: "2023-01-01"
+  end: "2023-01-10"
+  cache_dir: "data"

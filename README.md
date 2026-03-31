@@ -4,7 +4,7 @@
 ## Overview
 Adaptive Alpha Engine is a modular research framework for evaluating short-horizon trading signals under realistic execution constraints.
 Version 1 focuses on:
-- BTCUSDT (Binance), 1-minute bars
+- BTCUSDT (Kraken), 1-minute bars
 - 5-minute directional prediction
 - Walk-forward retraining (time-ordered splits)
 - Transaction costs + slippage simulation
